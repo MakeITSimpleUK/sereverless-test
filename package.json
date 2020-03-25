@@ -1,0 +1,19 @@
+{
+  "name": "sereverless-test",
+  "version": "1.0.0",
+  "description": "testing serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MakeITSimpleUK/sereverless-test/issues"
+  },
+  "homepage": "https://github.com/MakeITSimpleUK/sereverless-test#readme",
+  "dependencies": {
+    "uuidv4": "^6.0.6"
+  },
+  "devDependencies": {}
+}
