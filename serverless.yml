@@ -28,7 +28,6 @@ package:
   individually: true
   exclude:
     - node_modules
-    - package.json
 
 functions:
   serviceA:
@@ -36,7 +35,6 @@ functions:
     package:
       exclude:
         - services/**
-        - package.json
       include:
         - services/service-A/**
     events:
